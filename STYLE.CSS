@@ -1,0 +1,30 @@
+*{
+    padding: 0%;
+}
+H1,H2{
+    
+        text-align: center;
+}
+.RECT{
+    color: rgb(42, 15, 240);
+    text-align: center;
+}
+main{
+    background-color: aliceblue;
+
+}
+.LIST,.LISTABOUT{
+    text-align: center;
+}
+.LIST{
+    box-shadow: 0PX 0PX 3PX #CCC;
+    width: 99%;
+    justify-content: center;
+}
+#LOGOIMAGE{
+    height: 3vh;
+}
+.LINKDI{
+    text-align: LEFT;
+    margin-left: 40lvh;
+}
